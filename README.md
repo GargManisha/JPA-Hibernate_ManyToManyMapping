@@ -48,5 +48,6 @@ In **lazy** loading, if we load one table data, it will not load up other data a
 
 <br>
 
-**Note:** If you get an error **"filename is too long"** while taking a pull or while committing your code using command prompt, then use the below command befor adding your files to git.
+**Note:** If you get an error **"filename is too long"** while taking a pull or while committing your code by using command prompt, then use the below command before adding your files to git.
+<br>
 git config core.logpaths true
