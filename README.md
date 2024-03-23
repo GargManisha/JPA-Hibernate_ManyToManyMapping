@@ -43,3 +43,10 @@ There are two type: Eager and Lazy.
 In **eager** loading strategy, if we load one table data, it will also load up all other data associated with it and will store it in a memory.
 
 In **lazy** loading, if we load one table data, it will not load up other data associated with it into a memory until we make an explicit call to it.
+
+<br>
+
+<br>
+
+**Note:** If you get an error **"filename is too long"** while taking a pull or while committing your code using command prompt, then use the below command befor adding your files to git.
+git config core.logpaths true
