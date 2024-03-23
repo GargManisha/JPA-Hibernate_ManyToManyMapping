@@ -6,7 +6,7 @@ Create tables instructor, instructor_detail, course, review, student. For their 
 
 This example will show all the mapping techniques. <br> 
 **@OneToOne** mapping <br> 
-**@OneToManny**, **@ManyToOne** mapping <br>
+**@OneToMany**, **@ManyToOne** mapping <br>
 **@ManyToMany** mapping. <br>
 
 For focusing on **@ManyToMany** mapping, look for **student** and **course** tables.
